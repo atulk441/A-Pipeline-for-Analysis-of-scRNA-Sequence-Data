@@ -7,6 +7,6 @@
 • This whole pipeline’s outcome showcases the effectiveness of approach in handling high dimensional scRNA-sequence datasets for further insights. <br>
 
 ## Dataset:
-Dataset used for this can be found here: https://figshare.com/ndownloader/files/40016014
+Dataset used for this research, can be found here: https://figshare.com/ndownloader/files/40016014
 
 To learn more about the results and discussion, please refer "A Pipeline for Analysis of scRNA-Sequence Data.pdf" file in the root directory.
